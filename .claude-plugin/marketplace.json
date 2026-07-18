@@ -1,0 +1,16 @@
+{
+  "name": "sunifyre",
+  "owner": {
+    "name": "Sunitha Kumar Girish"
+  },
+  "metadata": {
+    "description": "Planning instruments for live game production, from UGC Inside."
+  },
+  "plugins": [
+    {
+      "name": "production-canvas",
+      "source": "./",
+      "description": "An integrated planning instrument for live game events, built on Self-Determination Theory (agency, progression, belonging). Journey map, session validator, gap tracker, dependency map, risk heatmap, forecast vs actuals, and endowment audit in one place, computed before design lock."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "production-canvas",
+  "version": "0.1.0",
+  "description": "Plan and pressure-test live game events: journey maps, session time math, gap tracking, dependency maps, risk heatmaps, forecasts, and endowment audits in one instrument, computed before design lock instead of discovered after launch.",
+  "author": {
+    "name": "Sunitha Kumar Girish"
+  },
+  "homepage": "https://ugcinside.substack.com/p/i-built-the-production-tool-i-always",
+  "repository": "https://github.com/sunifyre/production-canvas",
+  "license": "MIT",
+  "keywords": [
+    "game-production",
+    "live-events",
+    "live-ops",
+    "journey-map",
+    "self-determination-theory",
+    "planning"
+  ]
+}
